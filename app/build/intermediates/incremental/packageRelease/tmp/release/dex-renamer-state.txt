@@ -1,0 +1,4 @@
+#Sun Jul 14 23:17:23 EAT 2024
+base.0=/Users/ca/Chrisdevcode/dad-jokes/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

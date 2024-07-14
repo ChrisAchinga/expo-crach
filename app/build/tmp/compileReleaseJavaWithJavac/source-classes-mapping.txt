@@ -1,0 +1,8 @@
+app/web/dadjokes_6996/twa/DelegationService.java
+ app.web.dadjokes_6996.twa.DelegationService
+app/web/dadjokes_6996/twa/Application.java
+ app.web.dadjokes_6996.twa.Application
+app/web/dadjokes_6996/twa/LauncherActivity.java
+ app.web.dadjokes_6996.twa.LauncherActivity
+app/web/dadjokes_6996/twa/BuildConfig.java
+ app.web.dadjokes_6996.twa.BuildConfig
